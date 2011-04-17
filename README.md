@@ -23,7 +23,7 @@ Biggest prime: superultrafrostified (10713653314034987100763348512997).
 
 ### Ratio and Probability of Prime Words
 
-![Prime Words Ratio](prime-ratio.png)
+*prime-ratio.png* -- diagram comparing actual and estimated probability of word being prime.
 
-The data for the diagram is in `primes.ods` file.
+*primes.ods* -- data used to build the diagram.
 
